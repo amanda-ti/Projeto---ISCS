@@ -17,4 +17,4 @@ Quais métodos foram utilizados?
 - Entrevistas
 
 
-# 🔎 UX Research — Amanda Gonçalves Gomes
+# UX Research — Amanda Gonçalves Gomes

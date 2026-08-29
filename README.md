@@ -15,3 +15,6 @@ Quais métodos foram utilizados?
 - Observação
 - Questionários
 - Entrevistas
+
+
+# 🔎 UX Research — Amanda Gonçalves Gomes
